@@ -1,1 +1,3 @@
-git kursuna hosgeldiniz 
+git kursuna hosgeldiniz
+
+gitignore uzerinde calisiyoruz
